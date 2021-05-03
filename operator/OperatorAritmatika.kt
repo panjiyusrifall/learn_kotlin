@@ -5,7 +5,7 @@ fun main(){
      val numb1: Int = 10
      val numb2: Double = 100.0
      var hasil: Double
-     //pada variabel hasil sengaja kita tidak kasih nilai karena nantinya variabel ini akan do outputkan pada hasil yang berbeda - beda seperti contoh di bawah ini
+     //pada variabel hasil sengaja kita tidak kasih nilai karena nantinya variabel ini akan di outputkan pada hasil yang berbeda - beda seperti contoh di bawah ini
      println("Operator Aritmatika")
      hasil = numb1 + numb2
      println("Penjumlahan \t: $numb1 + $numb2 = $hasil")
